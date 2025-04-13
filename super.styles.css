@@ -1,0 +1,36 @@
+.info-box {
+    border: 2px solid pink; /* Розовая рамка */
+    padding: 10px; /* Отступы внутри рамки */
+    margin: 20px 0; /* Отступы сверху и снизу */
+    border-radius: 5px; /* Закругленные углы */
+}
+
+h1, h2, h3, h4, h5, h6 {
+    text-align: center !important;
+    color: rgb(0, 255, 170);
+    font-size: 1.5em;
+    max-width: 66%;
+    margin: 0 auto;
+    margin-bottom: 2cm; /* Увеличение интервала между заголовками */
+}
+
+p {
+    font-size: 2em;
+    max-width: 50%;
+    margin: 0 auto;
+    margin-bottom: 2cm; /* Увеличение интервала между строками */
+}
+
+body {
+    background-color: #f0f0f0; /* Цвет фона */
+    font-family: Arial, sans-serif; /* Шрифт */
+}
+
+h1 {
+    color: blue; /* Цвет заголовка */
+    text-align: center; /* Выравнивание заголовка по центру */
+}
+
+p {
+    text-align: center; /* Выравнивание текста по центру */
+}
